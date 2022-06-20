@@ -24,6 +24,10 @@ public class AddFunction {
 		
 		System.out.println(animals);
 		System.out.println(vegetables);
+
+
+		System.out.println(Git changes1);
+		System.out.println(Git changes2);
 	}
 
 }
